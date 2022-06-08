@@ -1,0 +1,395 @@
+{
+  "equa": "AQ Green",
+  "modals": {
+    "comingSoon": {
+      "portfolioPage": {
+        "title": "Portfolio-Seite in Kürze verfügbar",
+        "subtitle": "- Erstellen und Anpassen Ihres Projektportfolios \n- Sehen Sie, wie sich Ihre Projekte auf das Klima auswirken"
+      },
+      "discoverPage": {
+        "title": "Discover Page kommt bald",
+        "subtitle": "- Finde neue Projekte, Herausforderungen und Gruppen \n-Entdecken Sie neue Funktionen und wie Sie Ihre Kontakte in das AQ Green Netzwerk einladen können"
+      },
+      "newsPage": {
+        "title": "Neuigkeiten kommen kommt bald",
+        "subtitle": "- Bleiben Sie mit den neuesten Klimanachrichten auf dem Laufenden \n- Bleiben Sie mit den neuesten Klimanachrichten auf dem ersten"
+      },
+      "analitics": {
+        "title": "Neue Funktion in Kürze verfügbar",
+        "subtitle": "- Detailed analytics \n- SBTi's"
+      },
+      "challenges": {
+        "title": "Challenges feature coming soon",
+        "subtitle": "- Erstellen und teilen Sie Herausforderungen bei der CO2e Reduzierung \n- Mobilisieren Sie Ihre Community"
+      },
+      "groups": {
+        "title": "Gruppen werden in Kürze vorgestellt",
+        "subtitle": "- Einen Freund einladen \n- Treten Sie Community-Gruppen Sie bei oder erstellen sie"
+      },
+      "inviteFriends": {
+        "title": "Freunde einladen kommt bald"
+      },
+      "title": "Kommt bald",
+      "subtitle": "Dieser Abschnitt wird später verfügbar sein."
+    },
+    "loaderScreen": {
+      "oneMoment": "Einen Moment, während wir Ihr Guthaben verbinden...",
+      "weStarted": "Wir haben begonnen, Ihre Anfrage zu bearbeiten...",
+      "oneMoreThing": "Eine Sache noch...",
+      "processingYourRequest": "Wir sind fast fertig mit der Bearbeitung Ihrer Anfrage...",
+      "success": "Ihre Anfrage wurde erfolgreich bearbeitet!"
+    },
+    "projectDescription": {
+      "buttons": {
+        "addToPortfolio": "Zum Portfolio hinzufügen",
+        "removeFromPortfolio": "Aus dem Portfolio entfernen",
+        "projectWebsite": "Projektwebsite",
+        "projectWebcam": "Projekt Webcam",
+        "share": "Mit einem Freund teilen" 
+      },
+      "sdgBlock": {
+        "title": "SDG Impact",
+        "descriptions": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+      },
+      "slider": {
+        "mockText": "Optional caption max 140 characters lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean mass."
+      },
+      "overview": "Overview",
+      "portfolioDistribution": "%{interest}% portfolio distribution",
+      "noMembers": "",
+      "descriptionBlock": {
+        "keys": {
+          "status": "Status",
+          "location": "Ort",
+          "developer": "Entwickler",
+          "verified": "Verifiziert",
+          "emissionReduction": "Emissionsminderung",
+          "regDate": "Reg. Datum"
+        }
+      }
+    }
+  },
+  "signUp": {
+    "mobileConfirmationForm": {
+      "title": "Geben Sie Ihren Bestätigungs Code ein",
+      "sentTo": "Sent to",
+      "buttons": {
+        "submit": "Sign In",
+        "resendCode": "Code erneut senden?"
+      }
+    },
+    "credentialsForm": {
+      "title": "Fordern Sie meinen CO2-Kredit an",
+      "subtitle": "Bitte geben Sie Ihre Handynummer und Ihr Emissionsguthaben ein, um Ihr Guthaben zu erhalten",
+      "buttons": {
+        "submit": "Fordern Sie meinen CO2-Kredit an",
+        "help": "BRAUCHEN SIE HILFE? BITTE SEHEN SIE UNSER FAQs"
+      },
+      "fields": {
+        "mobileNumber": {
+          "label": "Handynummer",
+          "placeholder": "Geben Sie Ihre Handynummer ein..."
+        },
+        "carbonCreditCode": {
+          "label": "Kredit-Code",
+          "placeholder": "Geben Sie Ihren Kreditcode ein..."
+        }
+      }
+    }
+  },
+  "signIn": {
+    "credentialsForm": {
+      "title": "Sign In",
+      "subtitle": "Geben Sie Ihre Telefonnummer und Ihr Passwort ein, um Ihr Konto einzugeben",
+      "buttons": {
+        "submit": "Sign In",
+        "forgotPassword": "Passwort vergessen?"
+      },
+      "fields": {
+        "email": {
+          "label": "Email Addresse",
+          "placeholder": "Geben Sie Ihre E-Mail Adresse ein..."
+        },
+        "password": {
+          "label": "Passwort",
+          "placeholder": "Geben Sie Ihr Passwort ein..."
+        }
+      }
+    }
+  },
+  "onboarding": { 
+    "buttons": {
+      "connect": "verbinden",
+      "nextButton": "Nächster",
+      "signIn": "signIn",
+      "skip": "skip"
+    },
+    "slides": {
+      "0": {
+        "title": "Messen. Reduzieren\n\n Versatz\n =\nEinschlag",
+        "subtitle": "Treten Sie der globalen Gemeinschaft von Menschen, Unternehmen und Marken bei, die sich dafür einsetzen, bis 2050 klimaneutral zu werden."
+      },
+      "1": {
+        "title": "Messen und verfolgen",
+        "subtitle": "Messen Sie Ihren CO2 Fußabdruck genau, verfolgen Sie ihn automatisch und gleichen Sie ihn aus, indem Sie zu Projekten beitragen, die für Sie am wichtigsten sind."
+      },
+      "2": {
+        "title": "Reduzieren",
+        "subtitle": "Verfolgung über die Zeit, um den Fortschritt anzuzeigen."
+      },
+      "3": {
+        "title": "Offset",
+        "subtitle": "Erstellen Sie Ihr persönliches Projektportfolio und sehen Sie Ihre Fortschritte live."
+      },
+      "4": {
+        "title": "Geteilte \nVerantwortung",
+        "subtitle": "Treten Sie Gemeinschaften bei oder gründen Sie Ihre eigenen und befähigen Sie Ihre Kollegen zu kollektiven Klimaschutzmaßnahmen."
+      }
+    }
+  },
+  "setupAccount": {
+    "buttons": {
+      "back": "Zurück",
+      "next": "Nächster"
+    },
+    "C02ecarbonCredits": "CO2e carbon credits",
+    "steps": {
+      "register": {
+        "name": "Registrieren",
+        "welcome": "Willkommen",
+        "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula sollicitudin ornare. Sed et augue porttitor tortor congue dictum.",
+        "alerts": {
+          "pushNotifications": {
+            "title": "Push Benachrichtigungen",
+            "subtitle": "Ihr kostenloses Abonnement endet %{dateToShow}, Möchten Sie, dass wir Sie daran erinnern, bevor Ihre Zahlung beginnt?",
+            "buttons": {
+              "submit": "Ja"
+            }
+          },
+          "pushNotificationsNative": {
+            "title": "\"AQ Green\" Möchten Sie Benachrichtigungen senden",
+            "subtitle": "Benachrichtigungen können Warnungen, Sounds und Symbolabzeichen enthalten. Diese können in den Einstellungen konfiguriert werden.",
+            "buttons": {
+              "cancel": "Nicht zulassen",
+              "allow": "Ermöglichen"
+            }
+          }
+        },
+        "partnerDescription": {
+          "keys": {
+            "business": "Unternehmen",
+            "code": "code",
+            "category": "Kategorie",
+            "credits": "credits"
+          }
+        },
+        "createAccount": {
+          "name": "Benutzer erstellen",
+          "fields": {
+            "firstName": {
+              "placeholder": "Geben Sie Ihren Vornamen ein...",
+              "label": "Vorname"
+            },
+            "lastName": {
+              "placeholder": "Geben Sie Ihren Nachnamen ein...",
+              "label": "Nachname"
+            },
+            "location": {
+              "placeholder": "Geben Sie Ihren Standort ein...",
+              "label": "Ort"
+            },
+            "mobileNumber": {
+              "placeholder": "Geben Sie Ihre Handynummer ein...",
+              "label": "Handynummer"
+            },
+            "email": {
+              "placeholder": "Geben Sie Ihre E-Mail-Adresse ein...",
+              "label": "E-Mail Addresse"
+            },
+            "password": {
+              "placeholder": "Passwort eingeben...",
+              "label": "Passwort erstellen"
+            },
+            "reEnterPassword": {
+              "placeholder": "Kennwort bestätigen...",
+              "label": "Erneut Ihr Passwort eingeben"
+            }
+          }
+        },
+        "paymentInformation": {
+          "name": "Zahlungsinformationen", 
+          "description": "Nach den ersten 3 Monaten wird Ihre Karte mit einer monatlichen Gebühr von $20,00 belastet, um Ihr Offset-Abonnement fortzusetzen. Sie können das Abonnement jederzeit kündigen.",
+          "fields": {
+            "name": {
+              "placeholder": "Gib deinen Namen ein...",
+              "label": "Name"
+            },
+            "creditCardNumber": {
+              "placeholder": "Kreditkartendaten",
+              "label": "Kreditkarte"
+            },
+            "creditCardExpiration": {
+              "placeholder": "01 / 31",
+              "label": "Ablauf"
+            },
+            "creditCardCVV": {
+              "placeholder": "000",
+              "label": "CVV"
+            }
+          }
+        },
+        "paymentDescriptions": "Nach den ersten 3 Monaten wird Ihre Karte mit einer monatlichen Gebühr von $20,00 belastet, um Ihr Offset-Abonnement fortzusetzen. Sie können das Abonnement jederzeit kündigen."
+      }, 
+      "invest": {
+        "name": "Investieren",
+        "title": "Wählen Sie Ihre Offset Projekte",
+        "offsetCounter": {
+          "tC02e": "t C02e",
+          "subtitle": "Kostenlose 3 Monate versetzt von %{businessName}"
+        },
+        "descriptions1": "Sie entscheiden, wo Ihre Emissionsgutschriften angelegt werden sollen. Wählen Sie einfach ein Projekt aus den folgenden Optionen aus.",
+        "descriptions2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula sollicitudin ornare. Sed et augue porttitor tortor congue dictum.",
+        "descriptions3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "recomendedProjects": {
+          "title": "%{businessName} Empfohlen",
+          "addAll": "Füge alle hinzu",
+          "allSelected": "Alle ausgewählt"
+        },
+        "individualyProjects": {
+          "title": "Projekte einzeln auswählen",
+          "filter": {
+            "close": "Schließen",
+            "types": {
+              "name": "Typen",
+              "all": "Alle",
+              "filterItem": "Element filtern"
+            },
+            "locations": {
+              "name": "Orte",
+              "all": "Alle",
+              "filterItem": "Element filtern"
+            }
+          }
+        }
+      },
+      "assign": {
+        "name": "Zuordnen",
+        "title": "Wählen Sie Ihre Offset Projekte",
+        "description1": "Sie entscheiden, wo Ihre Emissionsgutschriften angelegt werden sollen. Wählen Sie einfach ein Projekt aus den folgenden Optionen aus.",
+        "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula sollicitudin ornare. Sed et augue porttitor tortor congue dictum.",
+        "description3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "mySelectedProjects": {
+          "title": "Meine ausgewählten Projekte",
+          "buttons": {
+            "edit": "Bearbeiten"
+          }
+        }
+      },
+      "confirm": {
+        "name": "Bestätigen",
+        "title": "Vielen Dank, %{firstName}",
+        "subtitle": "Sie machen bereits einen Unterschied. Bitte bestätigen Sie Ihre Projektauswahl. Dies wird in Ihrem Wirkungsportfolio angezeigt.",
+        "partnerDescription": {
+          "keys": {
+            "business": "business",
+            "code": "code",
+            "category": "Kategorie",
+            "credits": "credits"
+          }
+        },
+        "paymentDescription": "Nach den ersten 3 Monaten wird Ihre Karte mit einer monatlichen Gebühr von $20,00 belastet, um Ihr Offset-Abonnement fortzusetzen. Sie können das Abonnement jederzeit kündigen.",
+        "mySelectedProjects": {
+          "title": "Meine ausgewählten Projekte",
+          "buttons": {
+            "edit": "Bearbeiten"
+          }
+        }
+      }
+    }
+  },
+  "bottomTabBar": {
+    "news": "Nachrichten",
+    "profile": "Profil",
+    "portfolio": "Portfolio",
+    "discover": "Entdecken"
+  },
+  "selectAddActivityScreen": {
+    "title": "Was möchten Sie hinzufügen?",
+    "buttons": {
+      "inviteFriends": "Einen Freund einladen",
+      "scanQrCode": "Scan QR Code",
+      "syncApp": "Sync App"
+    },
+    "options": {
+      "activityFootprint": "Aktivitäts Footprint",
+      "projects": "Projekte",
+      "groups": "Gruppen",
+      "challenges": "Herausforderungen"
+    }
+  },
+  "profileScreen": {
+    "credits": "CO2e credits",
+    "debt": "CO2e Schuld",
+    "addActivitiesPromt": "Fügen Sie Aktivitäten hinzu, um Ihre Kohlenstoffverschuldung zu sehen",
+    "greeting": "Hi, %{firstName}",
+    "finishAccountSetup": {
+      "title": "Beenden Sie die Einrichtung Ihres Kontos",
+      "steps": {
+        "redeemCredit": "Guthaben einlösen",
+        "createPortfolio": "Portfolio erstellen",
+        "calculateFootprint": "Fußabdruck berechnen",
+        "setYourGoal": "Setzen Sie sich Ihr Ziel",
+        "joinGroup": "Einer Gruppe beitreten"
+      }
+    },
+    "connectWithGroupsBlock": {
+      "title": "Verbinde dich mit Gruppen",
+      "subtitle": "Steigern Sie Ihre positive Wirkung, indem Sie sich mit lokalen Gruppen und Unternehmen verbinden.",
+      "buttons": {
+        "connect": "Verbinden"
+      }
+    },
+    "myProgressBlock": {
+      "title": "Mein Fortschritt",
+      "myTotal": "Meine Summe CO2e",
+      "ukTotal": "UK insgesamt CO2e"
+    },
+    "latestActivitiesBlock": {
+      "title": "Neueste Aktivitäten",
+      "buttons": {
+        "seeMore": "Sehen mehr"
+      }
+    }
+  },
+  "addFootPrintActivityScreen": {
+    "automateTrackingPlaceholder" :{
+      "title": "Automatisieren Sie Ihr Tracking",
+      "subtitle": "Verfolgen Sie Ihre Auswirkungen, indem Sie Ihre Lieblings-Apps synchronisieren.",
+      "appSubtitle": "Aktivitätsinformationen aus Ihrer App"
+    },
+    "activityAddedModal": {
+      "title": "Aktivität hinzugefügt",
+      "subtitle": "Gut gemacht! Ihre Reise zum Nullpunkt hat begonnen."
+    },
+    "buttons": {
+      "cancel": "Stornieren",
+      "saveActivity": "Aktivität speichern"
+    }
+  },
+  "manualInputScreen": {
+    "fields": {
+      "offset": {
+        "placeholder": "Geben Sie Offset ein"
+      }
+    },
+    "buttons": {
+      "submit": "Einreichen"
+    }
+  },
+  "qRCodeScannerScreen": {
+    "title": "QR-Code scannen",
+    "buttons": {
+      "scanCode": "Code scannen"
+    }
+  }
+}

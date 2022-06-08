@@ -1,0 +1,48 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs",
+        "baseUrl": ".",
+        "paths": {
+            "assets/*": ["assets/*"],
+            "api/*": ["src/api/*"],
+            "components/*": ["src/components/*"],
+            "components": ["src/components"],
+            "constants": ["src/constants"],
+            "constants/*": ["src/constants/*"],
+            "hocs/*": ["src/hocs/*"],
+            "hooks/*": ["src/hooks/*"],
+            "models/*": ["src/models/*"],
+            "navigation/*": ["src/navigation/*"],
+            "screens/*": ["src/screens/*"],
+            "utils/*": ["src/utils/*"]
+        },
+        "plugins": [
+            {
+              "NOTE": "https://github.com/microsoft/typescript-styled-plugin/issues/58",
+              "name": "typescript-styled-plugin",
+              "lint": {
+                "validProperties": [
+                  "aspect-ratio",
+                  "elevation",
+                  "margin-vertical",
+                  "margin-horizontal",
+                  "padding-horizontal",
+                  "padding-vertical",
+                  "resize-mode",
+                  "shadow-color",
+                  "shadow-opacity",
+                  "shadow-offset",
+                  "shadow-radius",
+                  "text-align-vertical",
+                  "tint-color"
+                ]
+              }
+            }
+          ]
+    },
+
+    "exclude": [
+        "node_modules",
+    ]
+}

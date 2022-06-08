@@ -1,0 +1,395 @@
+{
+  "equa": "AQ Green",
+  "modals": {
+    "comingSoon": {
+      "portfolioPage": {
+        "title": "Portfolio Page Coming Soon",
+        "subtitle": "- Build and customise your project portfolio \n- See how your projects are making an impact on climate"
+      },
+      "discoverPage": {
+        "title": "Discover Page Coming Soon",
+        "subtitle": "- Find new projects, challenges and groups \n- Discover new features and how to invite your contacts to the AQ Green network"
+      },
+      "newsPage": {
+        "title": "News Feed Coming Soon",
+        "subtitle": "- Stay up to date with the latest climate news \n- Get updates about projects and initiatives that matter to you"
+      },
+      "analitics": {
+        "title": "New Feature Coming Soon",
+        "subtitle": "- Detailed analytics \n- SBTi's"
+      },
+      "challenges": {
+        "title": "Challenges feature coming soon",
+        "subtitle": "- Create and share CO2e reduction challenges \n- Mobilise your community"
+      },
+      "groups": {
+        "title": "Groups feature coming soon",
+        "subtitle": "- Invite a friend \n- Join or create community groups"
+      },
+      "inviteFriends": {
+        "title": "Invite friends coming soon"
+      },
+      "title": "Coming soon",
+      "subtitle": "This section will be available later."
+    },
+    "loaderScreen": {
+      "oneMoment": "One moment while we connect your credit...",
+      "weStarted": "We started processing your request...",
+      "oneMoreThing": "One more thing ...",
+      "processingYourRequest": "We're almost done processing your request...",
+      "success": "Your request has been processed successfully!"
+    },
+    "projectDescription": {
+      "buttons": {
+        "addToPortfolio": "Add to portfolio",
+        "removeFromPortfolio": "Remove from portfolio",
+        "projectWebsite": "Project Website",
+        "projectWebcam": "Project Webcam",
+        "share": "Share with a Friend"
+      },
+      "sdgBlock": {
+        "title": "SDG Impact",
+        "descriptions": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+      },
+      "slider": {
+        "mockText": "Optional caption max 140 characters lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean mass."
+      },
+      "overview": "Overview",
+      "portfolioDistribution": "%{interest}% portfolio distribution",
+      "noMembers": "",
+      "descriptionBlock": {
+        "keys": {
+          "status": "Status",
+          "location": "Location",
+          "developer": "Developer",
+          "verified": "Verified",
+          "emissionReduction": "Emission Reduction",
+          "regDate": "Reg. Date"
+        }
+      }
+    }
+  },
+  "signUp": {
+    "mobileConfirmationForm": {
+      "title": "Enter your Verification code",
+      "sentTo": "Sent to",
+      "buttons": {
+        "submit": "Sign In",
+        "resendCode": "resend code?"
+      }
+    },
+    "credentialsForm": {
+      "title": "Claim My carbon Credit",
+      "subtitle": "Please enter your mobile number and carbon credit to claim your credit",
+      "buttons": {
+        "submit": "Claim My carbon Credit",
+        "help": "NEED HELP? PLEASE SEE OUR FAQs"
+      },
+      "fields": {
+        "mobileNumber": {
+          "label": "Mobile number",
+          "placeholder": "Type your mobile number..."
+        },
+        "carbonCreditCode": {
+          "label": "Credit code",
+          "placeholder": "Type your credit code..."
+        }
+      }
+    }
+  },
+  "signIn": {
+    "credentialsForm": {
+      "title": "Sign In",
+      "subtitle": "Enter your phone number and password to enter your account",
+      "buttons": {
+        "submit": "Sign In",
+        "forgotPassword": "Forgot password?"
+      },
+      "fields": {
+        "email": {
+          "label": "Email address",
+          "placeholder": "Type your email..."
+        },
+        "password": {
+          "label": "Password",
+          "placeholder": "Type your password..."
+        }
+      }
+    }
+  },
+  "onboarding": { 
+    "buttons": {
+      "connect": "connect",
+      "nextButton": "next",
+      "signIn": "signIn",
+      "skip": "skip"
+    },
+    "slides": {
+      "0": {
+        "title": "Measure. Reduce\n\n Offset\n =\nImpact",
+        "subtitle": "Join the global community of people, business and brand committed to becoming climate neutral by 2050."
+      },
+      "1": {
+        "title": "Measure and Track",
+        "subtitle": "Accurately measure, automatically track and offset your carbon footprint by contributing to projects that matter to you most."
+      },
+      "2": {
+        "title": "Reduce",
+        "subtitle": "Tracking over time to show progress."
+      },
+      "3": {
+        "title": "Offset",
+        "subtitle": "Build your own personalised project portfolio and see your progress live."
+      },
+      "4": {
+        "title": "Shared \nresponsibility",
+        "subtitle": "Join communities or start your own and empower your peers towards collective climate action."
+      }
+    }
+  },
+  "setupAccount": {
+    "buttons": {
+      "back": "Back",
+      "next": "Next"
+    },
+    "C02ecarbonCredits": "CO2e carbon credits",
+    "steps": {
+      "register": {
+        "name": "Register",
+        "welcome": "Welcome",
+        "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula sollicitudin ornare. Sed et augue porttitor tortor congue dictum.",
+        "alerts": {
+          "pushNotifications": {
+            "title": "Push notifications",
+            "subtitle": "Your free subscription ends %{dateToShow}, would you like us to remind you before your payment starts?",
+            "buttons": {
+              "submit": "yes"
+            }
+          },
+          "pushNotificationsNative": {
+            "title": "\"AQ Green\" Would Like to Send You Notifications",
+            "subtitle": "Notifications may include alerts, sounds, and icon badges. These can be configured in Settings.",
+            "buttons": {
+              "cancel": "Don`t Allow",
+              "allow": "Allow"
+            }
+          }
+        },
+        "partnerDescription": {
+          "keys": {
+            "business": "business",
+            "code": "code",
+            "category": "category",
+            "credits": "credits"
+          }
+        },
+        "createAccount": {
+          "name": "Create Account",
+          "fields": {
+            "firstName": {
+              "placeholder": "Type your first name...",
+              "label": "First Name"
+            },
+            "lastName": {
+              "placeholder": "Type your last name...",
+              "label": "Last Name"
+            },
+            "location": {
+              "placeholder": "Type your location...",
+              "label": "Location"
+            },
+            "mobileNumber": {
+              "placeholder": "Type your mobile number...",
+              "label": "Mobile number"
+            },
+            "email": {
+              "placeholder": "Type your email...",
+              "label": "Email address"
+            },
+            "password": {
+              "placeholder": "Type password...",
+              "label": "Create password"
+            },
+            "reEnterPassword": {
+              "placeholder": "Confirm password...",
+              "label": "Re-enter password"
+            }
+          }
+        },
+        "paymentInformation": {
+          "name": "Payment Information", 
+          "description": "A $20.00 per month charge will be made to your card after first 3 month to continue your offset subscription. You can cancel the subscription plan anytime.",
+          "fields": {
+            "name": {
+              "placeholder": "Type your name...",
+              "label": "Name"
+            },
+            "creditCardNumber": {
+              "placeholder": "Credit card data",
+              "label": "Credit card"
+            },
+            "creditCardExpiration": {
+              "placeholder": "01 / 31",
+              "label": "Expiration"
+            },
+            "creditCardCVV": {
+              "placeholder": "000",
+              "label": "CVV"
+            }
+          }
+        },
+        "paymentDescriptions": "A $20.00 per month charge will be made to your card after first 3 month to continue your offset subscription. You can cancel the subscription plan anytime."
+      }, 
+      "invest": {
+        "name": "Invest",
+        "title": "Choose your offset projects",
+        "offsetCounter": {
+          "tC02e": "t C02e",
+          "subtitle": "Free 3 months offset from %{businessName}"
+        },
+        "descriptions1": "You decide where you’d like your carbon credits to be invested. Simply select a project from the options below.",
+        "descriptions2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula sollicitudin ornare. Sed et augue porttitor tortor congue dictum.",
+        "descriptions3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "recomendedProjects": {
+          "title": "%{businessName} Recommended",
+          "addAll": "Add All",
+          "allSelected": "All selected"
+        },
+        "individualyProjects": {
+          "title": "Select Projects Individually",
+          "filter": {
+            "close": "Close",
+            "types": {
+              "name": "Types",
+              "all": "All",
+              "filterItem": "Filter Item"
+            },
+            "locations": {
+              "name": "Locations",
+              "all": "All",
+              "filterItem": "Filter Item"
+            }
+          }
+        }
+      },
+      "assign": {
+        "name": "Assign",
+        "title": "Choose your offset projects",
+        "description1": "You decide where you’d like your carbon credits to be invested. Simply select a project from the options below.",
+        "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vehicula sollicitudin ornare. Sed et augue porttitor tortor congue dictum.",
+        "description3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "mySelectedProjects": {
+          "title": "My Selected Projects",
+          "buttons": {
+            "edit": "Edit"
+          }
+        }
+      },
+      "confirm": {
+        "name": "Confirm",
+        "title": "Thanks, %{firstName}",
+        "subtitle": "You’re already making a difference. Please confirm your project selection. This will be displayed in your impact portfolio.",
+        "partnerDescription": {
+          "keys": {
+            "business": "business",
+            "code": "code",
+            "category": "category",
+            "credits": "credits"
+          }
+        },
+        "paymentDescription": "A $20.00 per month charge will be made to your card after first 3 month to continue your offset subscription. You can cancel the subscription plan anytime.",
+        "mySelectedProjects": {
+          "title": "My Selected Projects",
+          "buttons": {
+            "edit": "Edit"
+          }
+        }
+      }
+    }
+  },
+  "bottomTabBar": {
+    "news": "News",
+    "profile": "Profile",
+    "portfolio": "Portfolio",
+    "discover": "Discover"
+  },
+  "selectAddActivityScreen": {
+    "title": "What would you like to add?",
+    "buttons": {
+      "inviteFriends": "Invite a friend",
+      "scanQrCode": "Scan QR Code",
+      "syncApp": "Sync App"
+    },
+    "options": {
+      "activityFootprint": "Activity footprint",
+      "projects": "Projects",
+      "groups": "Groups",
+      "challenges": "Challenges"
+    }
+  },
+  "profileScreen": {
+    "credits": "CO2e credits",
+    "debt": "CO2e debt",
+    "addActivitiesPromt": "Add activities to see your carbon debt",
+    "greeting": "Hi, %{firstName}",
+    "finishAccountSetup": {
+      "title": "Finish your account setup",
+      "steps": {
+        "redeemCredit": "Redeem credit",
+        "createPortfolio": "Create portfolio",
+        "calculateFootprint": "Calculate footprint",
+        "setYourGoal": "Set your goal",
+        "joinGroup": "Join a group"
+      }
+    },
+    "connectWithGroupsBlock": {
+      "title": "Connect with groups",
+      "subtitle": "Grow your positive impact by connecting with local groups and businesses.",
+      "buttons": {
+        "connect": "Connect"
+      }
+    },
+    "myProgressBlock": {
+      "title": "My Progress",
+      "myTotal": "My total CO2e",
+      "ukTotal": "UK total CO2e"
+    },
+    "latestActivitiesBlock": {
+      "title": "Latest Activities",
+      "buttons": {
+        "seeMore": "see more"
+      }
+    }
+  },
+  "addFootPrintActivityScreen": {
+    "automateTrackingPlaceholder" :{
+      "title": "Automate Your Tracking",
+      "subtitle": "Track your impact as it happens by syncing your favourite apps.",
+      "appSubtitle": "Activity information from your app"
+    },
+    "activityAddedModal": {
+      "title": "Activity Added",
+      "subtitle": "Well done! Your journey to net zero has begun."
+    },
+    "buttons": {
+      "cancel": "Cancel",
+      "saveActivity": "Save Activity"
+    }
+  },
+  "manualInputScreen": {
+    "fields": {
+      "offset": {
+        "placeholder": "Type offset"
+      }
+    },
+    "buttons": {
+      "submit": "Submit"
+    }
+  }, 
+  "qRCodeScannerScreen": {
+    "title": "Scan QR Code",
+    "buttons": {
+      "scanCode": "Scan Code"
+    }
+  }
+}
